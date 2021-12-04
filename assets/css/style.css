@@ -1,5 +1,16 @@
 .navbar {
     position: absolute;
-    max-width: 100%;
+   max-width: 95%;
 }
 
+body {
+    background-color:black;
+    color: white;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border-color: white;
+    max-width: 95%;
+}
