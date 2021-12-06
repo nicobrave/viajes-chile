@@ -29,9 +29,32 @@ hr {
 
 .fab {
     color: white;
+    
 }
 
 .img-logo {
     height: 25%;
 }
 
+.qs-text {
+    max-width: 95%;
+}
+
+.links {
+    font-size: 2rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+.card-body {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.VIAJESCHILE {
+    color: white;
+}
