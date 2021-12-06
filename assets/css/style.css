@@ -14,3 +14,24 @@ hr {
     border-color: white;
     max-width: 95%;
 }
+
+.bg-info {
+    width: 100%;
+}
+
+.fas {
+    font-size: 1.5rem;
+}
+
+.card-img-top {
+    size: 30%;
+}
+
+.fab {
+    color: white;
+}
+
+.img-logo {
+    height: 25%;
+}
+
