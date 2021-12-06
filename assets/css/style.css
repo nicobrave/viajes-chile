@@ -15,6 +15,10 @@ hr {
     max-width: 95%;
 }
 
+.container-fluid {
+    max-width: 95%;
+}
+
 .bg-info {
     width: 100%;
 }
